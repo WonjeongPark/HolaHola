@@ -84,4 +84,5 @@
 ```
 6. 필요한 정보 마인드 맵 & 사이트맵 등
 
-[구글 프레젠테이션으로 이동(작성중)](https://docs.google.com/presentation/d/1UovJmEoAeQCGfHEUn6HIcliI7lkzWRqCqZlKUlwd5qQ/edit?usp=sharing) 
+[](https://docs.google.com/presentation/d/1UovJmEoAeQCGfHEUn6HIcliI7lkzWRqCqZlKUlwd5qQ/edit?usp=sharing) 
+[기능정의서](https://docs.google.com/spreadsheets/d/1J3mLDQXQCZ-FcNEBe3-aiUvOc8wktL5eIZI-cKWiCXI/edit?usp=sharing)
