@@ -84,5 +84,5 @@
 ```
 6. 필요한 정보 마인드 맵 & 사이트맵 등
 
-[](https://docs.google.com/presentation/d/1UovJmEoAeQCGfHEUn6HIcliI7lkzWRqCqZlKUlwd5qQ/edit?usp=sharing) 
-[기능정의서](https://docs.google.com/spreadsheets/d/1J3mLDQXQCZ-FcNEBe3-aiUvOc8wktL5eIZI-cKWiCXI/edit?usp=sharing)
+[앱기획 및 화면정의서 보기](https://docs.google.com/presentation/d/1UovJmEoAeQCGfHEUn6HIcliI7lkzWRqCqZlKUlwd5qQ/edit?usp=sharing) <br/>
+[기능정의서 보기](https://docs.google.com/spreadsheets/d/1J3mLDQXQCZ-FcNEBe3-aiUvOc8wktL5eIZI-cKWiCXI/edit?usp=sharing)
