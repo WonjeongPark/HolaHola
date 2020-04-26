@@ -86,3 +86,53 @@
 
 [앱기획 및 화면정의서 보기](https://docs.google.com/presentation/d/1UovJmEoAeQCGfHEUn6HIcliI7lkzWRqCqZlKUlwd5qQ/edit?usp=sharing) <br/>
 [기능정의서 보기](https://docs.google.com/spreadsheets/d/1J3mLDQXQCZ-FcNEBe3-aiUvOc8wktL5eIZI-cKWiCXI/edit?usp=sharing)
+
+### 개발언어 선택
+
+#### Kotlin
+
+```
+1. JVM에서 구동되는 언어로 자바와 *상호운용* 가능 (자바 라이브러리 그대로 사용 가능)
+  *JVM이란? Java virtual Machine, 자바 가상머신의 약자.
+  Java가 OS에 구애받지 않고 재사용하게 하기 위하며 중개자 역할, 메모리효율성. 스택기반의 가상머신(후입선출).
+2. 자바를 대체할 수 있는 언어
+3. 정적 타입 지정 언어
+4. 객체 지향 언어인 동시에 함수형 프로그래밍의 장점을 채택하여 지원
+  (*간결성* - 쉽게 파악할 수 있는 구조, 자바에서 개발자가 준비해야하는 코드를 묵시적으로 제공
+    다중 스레드환경에서의 *안정성* - 일부 유형의 오류를 프로그램 설계단에서 원칙적으로 방지, 적은비용 높은 안정성
+    테스트 용이)
+5. 안드로이드 뿐만 아니라 서버에서도 사용 가능
+```
+
+#### Flutter
+
+```
+1. Cross-Platform Framework.
+2. Widget - StatelessWidget, StatefulWidget 
+3. Skia 그래픽 라이브러리 - 다양한 환경에서 공통 API를 가지고 화면을 그릴 수 있다.
+4. Dart언어사용
+```
+
+#### React-Native
+
+```
+1. Cross-Platform Framework.
+2. 가상돔 기반으로 실제로 렌더링은 React DOM과 같은 레이어가 처리하는 구조.
+3. Javascript 활용 -> React 라이브러리와 호환성 좋음
+4. GraphQL을 사용할 경우 Apollo GraphQL패키지 사용 가능
+```
+
+### 안드로이드 언어 Kotlin, 크로스플랫폼 개발 언어 Flutter, React-Native
+
+#### 네이티브 앱 개발 vs 크로스플랫폼 개발
+
+>각 OS별 고유의 기능들을 모두 활용 가능<br>
+크로스 플랫폼 개발에서 생기는 추가적인 버그 및 기술적 문제를 최소화<br>
+
+### Flutter vs React-Native
+
+>Google이 모든 기능 지원 vs Facebook, 오픈소스기반으로 외부라이브러리에 의존<br>
+성숙하지 않고 자료가 많이 없다 vs 성숙하고 커뮤니티 활발, 자료와 오픈소스 많다<br>
+아직 큰 패키시 생태계 조성 못함 vs React에서 조성된 수많은 패키지들 대부분 호환 사용 가능<br>
+상태관리는 Stream을 활용한 BloC패턴 vs Redux, Mobx등 상태관리 라이브러리<br>
+직접 화면에 컴포넌트를 그려 OS별로 활용할 필요가 없음 vs iOS와 Android 다르게 작동하는 코드 다수<br>
