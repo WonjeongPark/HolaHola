@@ -7,3 +7,6 @@
 <br/>
 OAuth의 인증은 API를 제공하는 서버에서 이루어지고, 유저가 인증되면 Access Token을 발급한다.<br/>
 Third party 앱에서는 Service provider의 API를 안전하고 쉽게 사용할 수 있다.<br/>
+
+
+### OAuth 2.0
