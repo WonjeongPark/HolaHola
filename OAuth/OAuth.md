@@ -10,3 +10,9 @@ Third party 앱에서는 Service provider의 API를 안전하고 쉽게 사용�
 
 
 ### OAuth 2.0
+
+>관련 조사 중에 PAYCO에서 제공하는 [사이트](https://developers.payco.com/guide/development/start)를 발견!<br/>
+흐름 이해에 도움이 될 것 같아 적어본다. [출처는 페이코](https://developers.payco.com/guide/development/start)
+
+![OAuth2.0인증과정](https://github.com/WonjeongPark/HolaHola/blob/master/OAuth/OAuth2.0%EC%9D%B8%EC%A6%9D%EA%B3%BC%EC%A0%95.png?raw=true)
+![OAuth2.0프로세스](https://github.com/WonjeongPark/HolaHola/blob/master/OAuth/OAuth2.0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.png?raw=true)
